@@ -29,8 +29,13 @@
 * [connector-sdk](https://github.com/openfaas/connector-sdk/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
 * [templates](https://github.com/openfaas/templates/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
 * [store](https://github.com/openfaas/store/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
-* https://github.com/openfaas/faas-provider/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh
-* https://github.com/openfaas/certifier/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh
+* [faas-provider](https://github.com/openfaas/faas-provider/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
+* [certifier](https://github.com/openfaas/certifier/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
+* [nats-queue-worker](https://github.com/openfaas/nats-queue-worker/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
+* [mqtt-connector](https://github.com/openfaas/mqtt-connector/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
+* [nats-connector](https://github.com/openfaas/nats-connector/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
+* [cron-connector](https://github.com/openfaas/cron-connector/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
+* 
 <!--
 **viveksyngh/viveksyngh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
