@@ -20,7 +20,17 @@
 
 * [feat: add sha256sums for kind binaries](https://github.com/kubernetes-sigs/kind/pull/2336)
 
+### [OpenFaas](https://github.com/openfaas)
 
+* [faas-cli](https://github.com/openfaas/faas-cli/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
+* [faas](https://github.com/openfaas/faas/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
+* [faas-netes](https://github.com/openfaas/faas-netes/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
+* [docs](https://github.com/openfaas/docs/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
+* [connector-sdk](https://github.com/openfaas/connector-sdk/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
+* [templates](https://github.com/openfaas/templates/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
+* [store](https://github.com/openfaas/store/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
+* https://github.com/openfaas/faas-provider/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh
+* https://github.com/openfaas/certifier/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh
 <!--
 **viveksyngh/viveksyngh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
