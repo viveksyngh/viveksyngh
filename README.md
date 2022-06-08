@@ -35,7 +35,8 @@
 * [mqtt-connector](https://github.com/openfaas/mqtt-connector/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
 * [nats-connector](https://github.com/openfaas/nats-connector/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
 * [cron-connector](https://github.com/openfaas/cron-connector/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
-* 
+* [of-watchdog](https://github.com/openfaas/of-watchdog/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
+
 <!--
 **viveksyngh/viveksyngh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
