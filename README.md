@@ -7,8 +7,9 @@
 ## Open Source Contributions 
 
    ### [Kubernetes](https://github.com/kubernetes/Kubernetes) 
-     - https://github.com/kubernetes/kubernetes/pull/102666
-     - https://github.com/kubernetes/test-infra/pull/21644
+   
+     * https://github.com/kubernetes/kubernetes/pull/102666
+     * https://github.com/kubernetes/test-infra/pull/21644
 <!--
 **viveksyngh/viveksyngh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
