@@ -37,11 +37,10 @@
 * [cron-connector](https://github.com/openfaas/cron-connector/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
 * [of-watchdog](https://github.com/openfaas/of-watchdog/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
 * [license-check](https://github.com/openfaas/license-check/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
-* 
 
 ### [Capsule](https://capsule.clastix.io/)
 * [capsule](https://github.com/clastix/capsule/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
-* [capsule-proxy](
+* [capsule-proxy](https://github.com/clastix/capsule-proxy/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
 
 ### [Keiko Project](https://github.com/keikoproj)
 * [Governer](https://github.com/keikoproj/governor/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
