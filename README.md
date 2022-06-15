@@ -36,6 +36,32 @@
 * [nats-connector](https://github.com/openfaas/nats-connector/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
 * [cron-connector](https://github.com/openfaas/cron-connector/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
 * [of-watchdog](https://github.com/openfaas/of-watchdog/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
+* [license-check](https://github.com/openfaas/license-check/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
+* 
+
+### [Capsule](https://capsule.clastix.io/)
+* [capsule](https://github.com/clastix/capsule/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
+* [capsule-proxy](
+
+### [Keiko Project](https://github.com/keikoproj)
+* [Governer](https://github.com/keikoproj/governor/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
+
+### [Howdy](https://github.com/howdyai)
+* [botkit](https://github.com/howdyai/botkit/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
+
+### [Netflix](https://github.com/Netflix)
+* [hubcommander](https://github.com/Netflix/hubcommander/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
+
+### [Stackstorm](https://github.com/StackStorm)
+* [hubot-stackstorm](https://github.com/StackStorm/hubot-stackstorm/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
+* [hubot-spark](https://github.com/tonybaloney/hubot-spark/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
+
+### [Akamai](https://github.com/akamai)
+* [AkamaiOPEN-edgegrid-golang](https://github.com/akamai/AkamaiOPEN-edgegrid-golang/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
+
+### [VMWare](https://github.com/vmware)
+* [kube-fluentd-operator](https://github.com/vmware/kube-fluentd-operator/pulls?q=is%3Apr+is%3Aclosed+author%3Aviveksyngh)
+
 
 <!--
 **viveksyngh/viveksyngh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
