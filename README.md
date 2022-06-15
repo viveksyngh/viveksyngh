@@ -3,6 +3,11 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/viveksyngh)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/viveksyngh/)
 
+## My Open Source Projects 
+
+* [kube-sync](https://github.com/viveksyngh/kube-sync) : CLI application to copy/sync ConfigMaps and secrets from one namespace to another
+* [openfaas-ocr](https://github.com/viveksyngh/openfaas-ocr) : Tesseract OCR function for OpenFass
+* [openfaas-pipeline](https://github.com/viveksyngh/openfaas-pipeline) : Event driven pipeline using OpenFaaS, Minio and Tensorflow inception
 
 ## Open Source Contributions 
 
