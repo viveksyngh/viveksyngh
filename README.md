@@ -8,6 +8,7 @@
 * [kube-sync](https://github.com/viveksyngh/kube-sync) : CLI application to copy/sync ConfigMaps and secrets from one namespace to another
 * [openfaas-ocr](https://github.com/viveksyngh/openfaas-ocr) : Tesseract OCR function for OpenFass
 * [openfaas-pipeline](https://github.com/viveksyngh/openfaas-pipeline) : Event driven pipeline using OpenFaaS, Minio and Tensorflow inception
+* [Merkle Tree](https://github.com/viveksyngh/merkletree) : Merkle tree implementation in golnag
 
 ## Open Source Contributions 
 
